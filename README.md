@@ -15,5 +15,5 @@ Newest release of my personal website: www.alisaakaya.me.
 
 🎨 color codes
 
-colors can be manually altered in styles.css connected to "--hue-color"
+colors can be manually altered in styles.css connected to '''"--hue-color"'''
   
