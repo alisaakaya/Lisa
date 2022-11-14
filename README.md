@@ -7,7 +7,7 @@ Newest release of my personal website: www.alisaakaya.me.
 
 🛠 set-up
 
-1. Install the assets to begin production
+1. Install the assets
 
 🚀 build and run for production
 
