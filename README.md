@@ -1,4 +1,6 @@
-# alisaakaya.me - v1
+<h1 align="center">
+  alisaakaya.me - v1
+ </h1>
 
 The first iteration of alisaakaya.me built with HTMl, CSS, SCSS, & JS.
 Newest release of my personal website: www.alisaakaya.me.
